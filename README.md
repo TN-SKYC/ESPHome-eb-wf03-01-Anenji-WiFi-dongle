@@ -1,4 +1,4 @@
-# ESPHome-eb-wf03-01-Anenji-WiFi-dongle-
+# ESPHome-eb-wf03-01-Anenji-WiFi-dongle
 Using original Anenji WiFi dongle ("eb-wf03-01", "WiFi Plug Pro-05") with ESPHome and Home Assistant
 
 Based on:
